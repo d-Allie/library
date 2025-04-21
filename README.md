@@ -1,5 +1,3 @@
 # library
 
-Hello World,
-
-I am learning to build projects in QGIS and PostGIS.
+This is a library of practice, study, and project's from my local computer.
